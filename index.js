@@ -9,7 +9,7 @@ function happyHolidaysTo(name)
 }
 var holiday = birthday
 var name = Devin
-function happyCustomHolidayTo(holiday, name)
+function happyHolidayTo(holiday, name)
 {
   return `Happy ${holiday}!, ${name}!`
 }
